@@ -37,17 +37,29 @@ The Synthara Breast Cancer Detection AI identifies abnormalities in the breast d
 ## Structure
 
 bash
+
 Copy
+
 Edit
+
 breast-cancer-ai-Synthara/
+
 ├
+
 ├── data/                  # Training and testing image datasets
+
 ├── models/                # CNN architecture (e.g., ResNet)
+
 ├── utils/                 # Dataset loaders, image transforms
+
 ├── train.py               # Model training script
+
 ├── evaluate.py            # Model evaluation script
+
 ├── config.yaml            # Training configurations
+
 ├── requirements.txt       # Python dependencies
+
 └── README.md              # Project documentation
 
 
